@@ -1,0 +1,712 @@
+@media(min-width: 320px) and (max-width: 575px) {
+    nav .navbar-brand {
+        background: #323232;
+        padding: 0 60px;
+        position: absolute;
+        top: -25px;
+        left: -38px;
+    }
+
+    nav {
+        background: #e23e38;
+        padding: 9px 0 !important;
+        position: absolute !important;
+        top: 0;
+        left: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 .0;
+        border: 1px solid #fff;
+    }
+
+    nav button i {
+        color: #fff;
+    }
+
+    nav ul {
+        padding: 20px 0;
+        background: transparent;
+        text-align: center;
+    }
+
+    nav ul li {
+        background: transparent;
+        padding: 0;
+        margin: 0 0px;
+    }
+
+    nav ul li a {
+        color: #fff !important;
+    }
+
+    nav ul li .show-a {
+        background: transparent;
+        color: #fff !important;
+    }
+
+    nav ul li:hover {
+        background: transparent;
+        border: 0 !important;
+    }
+
+    nav ul li:hover:after {
+        width: 0;
+    }
+
+    nav ul .show-h::after {
+        width: 0;
+    }
+
+    nav ul .show-h {
+        background: transparent;
+    }
+
+    nav ul li:hover a {
+        color: #000 !important;
+    }
+
+    #banner_part .banner .overlay h3 {
+        font-size: 25px;
+        text-align: left;
+    }
+
+    #banner_part .banner .overlay h3::after {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay h3::before {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay h1 {
+        font-size: 40px;
+        margin-top: 5px;
+    }
+
+    #banner_part .banner .overlay h1::after {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay h1::before {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay p::after {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay p::before {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay p {
+        font-size: 13px;
+        width: auto;
+        text-align: left;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    #banner_part .banner .overlay a {
+        margin-right: 0px;
+    }
+
+    #banner_part .banner .overlay {
+        padding-top: 155px;
+        text-align: left;
+    }
+
+    #banner_part .banner .overlay a:hover {
+        background: #e23e38;
+        border-color: #e23e38;
+    }
+
+    .title {
+        margin-top: 20px;
+    }
+
+    #about_part .text p {
+        font-size: 13px;
+        padding: 15px 0 0;
+        text-align: justify;
+    }
+
+    #team_part .member .img .img-overlay {
+        opacity: 1;
+    }
+
+    #team_part .member .deteils p {
+        opacity: 1;
+    }
+
+    #team_part .member {
+        transform: translateY(-30px);
+    }
+
+    #team_part .member .img .img-overlay {
+        opacity: 1;
+        transform: scale(.9);
+    }
+
+    #team_part .member .deteils::after {
+        border-color: rgba(221, 221, 221, 1);
+    }
+
+    #team_part .member .img .img-overlay ul li a i {
+        background: #fff;
+        color: #337ab7;
+    }
+
+    #testimonial-part .bg-img .overlay .testimonial-slider .slick-dots li button {
+        width: 17px;
+    }
+
+    #testimonial-part .bg-img .overlay .testimonial-slider .slick-dots {
+        bottom: -35px;
+    }
+
+    #testimonial-part .bg-img .overlay .testimonial-slider .item p {
+        padding-top: 25px;
+    }
+
+    #member_part .member .mem {
+        margin-bottom: 30px;
+    }
+
+    #rutin_part .colorful-tab-wrapper {
+        padding: 0;
+    }
+
+    #rutin_part .colorful-tab-menu {
+        background: #f1f1f1;
+        flex-direction: row;
+    }
+
+    #rutin_part .colorful-tab-menu-item a {
+        padding: 8px 0;
+        font-size: 15px;
+    }
+
+    #rutin_part .colorful-tab-menu-item {
+        width: 30%;
+    }
+
+    #rutin_part .colorful-tab-content .main {
+        flex-wrap: wrap;
+    }
+
+    #rutin_part .ittems {
+        width: 100%;
+    }
+}
+
+@media(min-width: 576px) and (max-width: 767px) {
+    nav .navbar-brand {
+        background: #323232;
+        padding: 0 60px;
+        position: absolute;
+        top: -25px;
+        left: -38px;
+    }
+
+    nav {
+        background: #e23e38;
+        padding: 9px 0 !important;
+        position: absolute !important;
+        top: 0;
+        left: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 .0;
+        border: 1px solid #fff;
+    }
+
+    nav button i {
+        color: #fff;
+    }
+
+    nav ul {
+        padding: 20px 0;
+        background: transparent;
+        text-align: center;
+    }
+
+    nav ul li {
+        background: transparent;
+        padding: 0;
+        margin: 0 0px;
+    }
+
+    nav ul li a {
+        color: #fff !important;
+    }
+
+    nav ul li .show-a {
+        background: transparent;
+        color: #fff !important;
+    }
+
+    nav ul li:hover {
+        background: transparent;
+        border: 0 !important;
+    }
+
+    nav ul li:hover:after {
+        width: 0;
+    }
+
+    nav ul .show-h::after {
+        width: 0;
+    }
+
+    nav ul .show-h {
+        background: transparent;
+    }
+
+    nav ul li:hover a {
+        color: #000 !important;
+    }
+
+    #banner_part .banner .overlay h3 {
+        font-size: 25px;
+        text-align: left;
+    }
+
+    #banner_part .banner .overlay h3::after {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay h3::before {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay h1 {
+        font-size: 40px;
+        margin-top: 5px;
+    }
+
+    #banner_part .banner .overlay h1::after {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay h1::before {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay p::after {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay p::before {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay p {
+        font-size: 13px;
+        width: auto;
+        text-align: left;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    #banner_part .banner .overlay a {
+        margin-right: 0px;
+    }
+
+    #banner_part .banner .overlay {
+        padding-top: 155px;
+        text-align: left;
+    }
+
+    #banner_part .banner .overlay a:hover {
+        background: #e23e38;
+        border-color: #e23e38;
+    }
+
+    .title {
+        margin-top: 20px;
+    }
+
+    .gallery_banner .overlay .img .img-overlay i {
+        font-size: 20px;
+    }
+
+    #about_part .text p {
+        font-size: 13px;
+        padding: 15px 0 0;
+        text-align: justify;
+    }
+
+    #team_part .member .img .img-overlay {
+        opacity: 1;
+    }
+
+    #team_part .member .deteils p {
+        opacity: 1;
+    }
+
+    #team_part .member {
+        transform: translateY(-30px);
+    }
+
+    #team_part .member .img .img-overlay {
+        opacity: 1;
+        transform: scale(.9);
+    }
+
+    #team_part .member .deteils::after {
+        border-color: rgba(221, 221, 221, 1);
+    }
+
+    #team_part .member .img .img-overlay ul li a i {
+        background: #fff;
+        color: #337ab7;
+    }
+
+    #testimonial-part .bg-img .overlay .testimonial-slider .slick-dots li button {
+        width: 17px;
+    }
+
+    #testimonial-part .bg-img .overlay .testimonial-slider .slick-dots {
+        bottom: -35px;
+    }
+
+    #testimonial-part .bg-img .overlay .testimonial-slider .item p {
+        padding-top: 25px;
+    }
+
+    #member_part .member .mem {
+        margin-bottom: 30px;
+    }
+
+    #rutin_part .colorful-tab-wrapper {
+        padding: 0;
+    }
+
+    #rutin_part .colorful-tab-menu {
+        background: #f1f1f1;
+        flex-direction: row;
+    }
+
+    #rutin_part .colorful-tab-menu-item a {
+        font-size: 12px;
+    }
+
+    #rutin_part .colorful-tab-menu-item {
+        width: 14%;
+    }
+
+    #rutin_part .main .ittems {
+        width: 20%;
+        margin: 0;
+    }
+
+    #rutin_part .colorful-tab-content .main {
+        overflow: hidden;
+        justify-content: space-between;
+    }
+
+    #rutin_part .main {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    #rutin_part .ittems:hover {
+        transform: scale(1);
+    }
+
+    #rutin_part .ittems:hover i {
+        font-size: 50px;
+    }
+}
+
+@media(min-width: 768px) and (max-width: 991px) {
+    nav .navbar-brand {
+        background: #323232;
+        padding: 0 60px;
+        position: absolute;
+        top: -25px;
+        left: -38px;
+    }
+
+    nav {
+        background: #e23e38;
+        padding: 9px 0 !important;
+        position: absolute !important;
+        top: 0;
+        left: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 .0;
+        border: 1px solid #fff;
+    }
+
+    nav button i {
+        color: #fff;
+    }
+
+    nav ul {
+        padding: 20px 0;
+        background: transparent;
+        text-align: center;
+    }
+
+    nav ul li {
+        background: transparent;
+        padding: 0;
+        margin: 0 0px;
+    }
+
+    nav ul li a {
+        color: #fff !important;
+    }
+
+    nav ul li .show-a {
+        background: transparent;
+        color: #fff !important;
+    }
+
+    nav ul li:hover {
+        background: transparent;
+        border: 0 !important;
+    }
+
+    nav ul li:hover:after {
+        width: 0;
+    }
+
+    nav ul .show-h::after {
+        width: 0;
+    }
+
+    nav ul .show-h {
+        background: transparent;
+    }
+
+    nav ul li:hover a {
+        color: #000 !important;
+    }
+
+    #banner_part .banner .overlay h3 {
+        font-size: 25px;
+        text-align: left;
+    }
+
+    #banner_part .banner .overlay h3::after {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay h3::before {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay h1 {
+        font-size: 40px;
+        margin-top: 5px;
+    }
+
+    #banner_part .banner .overlay h1::after {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay h1::before {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay p::after {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay p::before {
+        width: 0;
+        height: 0;
+    }
+
+    #banner_part .banner .overlay p {
+        font-size: 13px;
+        width: auto;
+        text-align: left;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    #banner_part .banner .overlay a {
+        margin-right: 0px;
+    }
+
+    #banner_part .banner .overlay {
+        padding-top: 155px;
+        text-align: left;
+    }
+
+    #banner_part .banner .overlay a:hover {
+        background: #e23e38;
+        border-color: #e23e38;
+    }
+
+    .title {
+        margin-top: 20px;
+    }
+
+    .gallery_banner .overlay .img .img-overlay i {
+        font-size: 20px;
+    }
+
+    #about_part .text p {
+        font-size: 13px;
+        padding: 15px 0 0;
+        text-align: justify;
+    }
+
+    #team_part .member .img .img-overlay {
+        opacity: 1;
+    }
+
+    #team_part .member .deteils p {
+        opacity: 1;
+    }
+
+    #team_part .member {
+        transform: translateY(-30px);
+    }
+
+    #team_part .member .img .img-overlay {
+        opacity: 1;
+        transform: scale(.9);
+    }
+
+    #team_part .member .deteils::after {
+        border-color: rgba(221, 221, 221, 1);
+    }
+
+    #team_part .member .img .img-overlay ul li a i {
+        background: #fff;
+        color: #337ab7;
+    }
+
+    #testimonial-part .bg-img .overlay .testimonial-slider .slick-dots li button {
+        width: 17px;
+    }
+
+    #testimonial-part .bg-img .overlay .testimonial-slider .slick-dots {
+        bottom: -35px;
+    }
+
+    #testimonial-part .bg-img .overlay .testimonial-slider .item p {
+        padding-top: 25px;
+    }
+
+    #member_part .member .mem {
+        margin-bottom: 30px;
+    }
+
+    #rutin_part .ittems:hover {
+        transform: scale(1);
+    }
+
+    #rutin_part .ittems:hover i {
+        font-size: 50px;
+    }
+}
+
+@media(min-width: 992px) and (max-width: 1199px) {
+    nav ul li {
+        padding: 5px;
+        margin: 0;
+    }
+
+    nav .navbar-brand {
+        top: -36px;
+        padding: 10px 50px;
+    }
+
+    #banner_part .banner .overlay {
+        text-align: center;
+    }
+
+    #banner_part .banner_1 .overlay P {
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 5px;
+    }
+
+    #banner_part .banner_2 .overlay P {
+        text-align: center;
+        margin: 0 auto;
+
+        margin-top: 5px;
+    }
+
+    #banner_part .banner_1 .overlay a {
+        margin-top: 20px;
+    }
+
+    #banner_part .banner_2 .overlay a {
+        margin-top: 20px;
+    }
+
+    .bprev {
+        top: 55%;
+    }
+
+    .bnext {
+        top: 55%;
+    }
+
+    .gallery_banner .overlay .img .img-overlay i {
+        font-size: 30px;
+    }
+
+    #testimonial-part .title {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    #testimonial-part .bg-img .overlay .testimonial-slider .slick-dots {
+        bottom: -45px;
+    }
+
+    #about_part .text p {
+        font-size: 13px;
+        line-height: 18px;
+        padding: 5px 5px 0;
+        text-align: justify;
+    }
+}
+
+@media(min-width: 1200px) and (max-width: 1399px) {
+
+    #banner_part .banner_1 .overlay,
+    #banner_part .banner_2 .overlay {
+        text-align: left;
+    }
+    #testimonial-part .title {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    #testimonial-part .bg-img .overlay .testimonial-slider .slick-dots {
+        bottom: -45px;
+    }
+}
